@@ -8,5 +8,6 @@ public class BdfsVisualApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BdfsVisualApplication.class, args);
+		System.out.println("first git test");
 	}
 }
